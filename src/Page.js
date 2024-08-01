@@ -42,7 +42,7 @@ export default function Page() {
               </p>
 
               <button onClick={handleButtonClick} onFocus={playSound()}>
-                Let's Begin
+                Empezar
               </button>
             </div>
           </div>
