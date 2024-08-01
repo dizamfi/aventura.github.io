@@ -82,7 +82,7 @@ const MediaSlider = () => {
   const currentContent = mediaContent[currentIndex];
 
   return (
-    <motion.div>
+    
       <div className="page__container">
         <div className="page__slider">
           {currentContent.type === "image" && (
@@ -104,7 +104,7 @@ const MediaSlider = () => {
           )}
         </div>
       </div>
-    </motion.div>
+    
   );
 };
 
