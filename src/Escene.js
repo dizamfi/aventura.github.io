@@ -2,7 +2,7 @@ import React, { Suspense } from 'react'
 import { Canvas } from '@react-three/fiber'
 import { OrbitControls } from '@react-three/drei'
 
-import { NoToneMapping, THREE } from 'three.js'
+import { THREE } from 'three.js'
 import { Laptop } from './Laptop'
 
 // * as THREE from 'three.js'
