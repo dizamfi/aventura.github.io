@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useSound } from "use-sound";
 import backgroundMusic from "./music/musica.mp3";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 import MediaSlider from "./MediaSlider";
 
 export default function Page() {
